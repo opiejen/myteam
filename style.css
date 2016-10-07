@@ -1,0 +1,39 @@
+body.home {
+  font-family: 'arial', segoe print, sans-serif;
+  font-weight: 100;
+  color: white;
+  background-color: #000080;
+  background-repeat: repeat;
+  text-align: center;
+}
+#wrapper {
+  width: 960px;
+  margin: 20px auto 20px auto;
+}
+h1 {
+  color: green;
+  font-size:500%;
+  text-align: center;
+  text-shadow: 1px 1px 1px white;
+}
+h2 {
+  color: white;
+}
+h3 {
+  color: white;
+}
+h4 {
+  color: white;
+}
+li {
+    color: black;
+}
+p {
+    color: white;
+}
+.circular--square {
+  border-top-left-radius: 50% 50%;
+  border-top-right-radius: 50% 50%;
+  border-bottom-right-radius: 50% 50%;
+  border-bottom-left-radius: 50% 50%;
+}
